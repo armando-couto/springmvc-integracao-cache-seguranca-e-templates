@@ -16,7 +16,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>6.1.10</version>
+			<version>6.1.11</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.tomcat</groupId>
@@ -96,7 +96,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-orm</artifactId>
-			<version>6.1.10</version>
+			<version>6.1.11</version>
 		</dependency>
 		<dependency>
 			<groupId>mysql</groupId>
@@ -136,7 +136,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context-support</artifactId>
-			<version>6.1.10</version>
+			<version>6.1.11</version>
 		</dependency>
 		
 		<!-- Spring Security -->
@@ -171,7 +171,7 @@
 		<dependency>
 		    <groupId>org.springframework</groupId>
 		    <artifactId>spring-test</artifactId>
-		    <version>6.1.10</version>
+		    <version>6.1.11</version>
 		    <scope>test</scope>
 		</dependency>
 		<dependency>
